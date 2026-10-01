@@ -21,7 +21,8 @@ package minicopier;
 import java.util.*;
 
 public class Basket {
-
+ i like this
+	//testing 
 	//Contains paths of files/folders to be copied
 	private Vector<String> basketContent;
 	
